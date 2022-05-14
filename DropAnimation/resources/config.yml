@@ -1,0 +1,19 @@
+#╔╗─╔╗──╔╗───────────────╔═══╗────╔╗
+#║║─║║──║║───────────────║╔═╗║────║║
+#║║─║╠═╗║║╔╦═╗╔══╦╗╔╗╔╦═╗║║─╚╬══╦═╝║
+#║║─║║╔╗╣╚╝╣╔╗╣╔╗║╚╝╚╝║╔╗╣║─╔╣╔╗║╔╗║
+#║╚═╝║║║║╔╗╣║║║╚╝╠╗╔╗╔╣║║║╚═╝║╚╝║╚╝║
+#╚═══╩╝╚╩╝╚╩╝╚╩══╝╚╝╚╝╚╝╚╩═══╩══╩══╝
+
+#EN: This plugin send an animation when a specific item is drop !
+#FR: ce plugin vous permez d'envoyer une animation lorsqu'un item spécifique est looté !
+
+item-id: 388  # Item which will trigger the animation
+item-meta: 0  # Only for item with specific meta
+
+MESSAGE-animation: §bRare Drop # Message which will appear when the item is drop
+
+
+# Item ids documentation: https://minecraftitemids.com/
+
+#                                                                                                                      </>
